@@ -1919,3 +1919,43 @@ Some possible improvements are:
 **Isha Gupta**
 
 Python and DSA Practice Projects
+
+## Project Outputs
+
+The following screenshots show sample outputs from the Python programs when they are executed in the terminal.
+
+### 1. ATM Simulation
+
+The screenshot shows the ATM account setup, login, and menu-based operations.
+
+![ATM Simulation Output](screenshots/atm_login.png)
+
+### 2. Car Drive Simulation
+
+The screenshot shows the car simulation with engine, speed, fuel, and driving operations.
+
+![Car Drive Simulation Output](screenshots/car_drive_simulation.png)
+
+### 3. Login System
+
+The screenshot shows account creation and successful login using the created username and password.
+
+![Login System Output](screenshots/login_my_account.png)
+
+### 4. Student Marks Analyzer
+
+The screenshots show student marks, grades, pass/fail status, and class summary.
+
+![Student Marks Analyzer Output](screenshots/student_mark_analzer.png)
+
+![Student Marks Analyzer Output 2](screenshots/student_mark_analyzer2.png
+)
+
+### 5. Number Analyzer
+
+The screenshot shows the calculated sum, subtraction, average, largest number, smallest number, and even/odd counts.
+
+![Number Analyzer Output](screenshots/numberanalyzer.png)
+
+
+
